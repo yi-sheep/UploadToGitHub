@@ -224,46 +224,89 @@
             进入设置
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_1.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_1.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_1.png" alt="进入设置">
 
             添加git的安装目录
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_2.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_2.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_2.png" alt="添加git的安装目录">
 
             点击Test后会出现git的版本
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_3.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_3.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_3.png" alt="点击Test">
 
             添加GitHub账号
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_4.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_4.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_4.png" alt="添加GitHub账号">
 
             账号应该就是绑定的邮箱
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_5.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_5.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_5.png" alt="登录">
 
             添加完后应该是这样的
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_6.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_6.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_6.png" alt="登录成功">
 
             上传到GitHub会自动创建GitHub项目
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_8.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_8.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_8.png" alt="上传">
 
             上传的时候可能会出现超时等情况，等等就好了
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png)
 
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png" alt="安装git">
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png" alt="超时">
 
             输入项目的描述
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_10.png)
-        
-        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_10.png" alt="安装git">
 
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_10.png" alt="项目描述">
+
+            选择要上传的文件
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_11.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_11.png" alt="选择文件">
+
+            这个就表示上传成功了，点击项目名跳转到项目页面
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_12.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_12.png" alt="成功">
+    - 完成
+
+            的
+        
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_13.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_13.png" alt="完成">
+    - 更新项目
+
+            点击git中的√
+
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_14.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_14.png" alt="点勾">
+
+            选择更改的文件
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_15.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_15.png" alt="文件选择">
+
+            上传更新
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_16.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_16.png" alt="上传">
+
+            选择上传文件
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_17.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_17.png" alt="更新上传">
+
+            出现这个表示上传成功
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_18.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_18.png" alt="完成">
     
