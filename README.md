@@ -1,5 +1,11 @@
 # UploadToGitHub
     上传项目到GitHub
+   <a href="#VSCode">VSCode</a>
+
+   <a href="#Android">Androidstudio</a> 
+
+<span id="VSCode"></span> 
+
 ### VSCode
     使用vscode上传有两种方式：
 
@@ -196,4 +202,68 @@
             图中其他内容不用看 因为这是按照终端上传截的图
         [图片地址](http://47.93.44.220/image/vscode_uploadGitHub_10.png)
         <img src="http://47.93.44.220/image/vscode_uploadGitHub_10.png" alt="建立远程连接">
+
+<span id="Android"></span> 
+
+### AndroidStudio
+    使用Androidstudio上传项目到GitHub
+
+- 准备工作
+    - 安装git
+
+        下载 [git](https://git-scm.com/)
+
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_7.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_7.png" alt="安装git">
+
+        [安装教程](https://git-scm.com/book/zh/v2/起步-安装-Git#_在_windows_上安装)
+- 开始
+    - 打开Android项目
+            
+            进入设置
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_1.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_1.png" alt="安装git">
+
+            添加git的安装目录
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_2.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_2.png" alt="安装git">
+
+            点击Test后会出现git的版本
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_3.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_3.png" alt="安装git">
+
+            添加GitHub账号
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_4.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_4.png" alt="安装git">
+
+            账号应该就是绑定的邮箱
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_5.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_5.png" alt="安装git">
+
+            添加完后应该是这样的
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_6.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_6.png" alt="安装git">
+
+            上传到GitHub会自动创建GitHub项目
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_8.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_8.png" alt="安装git">
+
+            上传的时候可能会出现超时等情况，等等就好了
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png)
+
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png" alt="安装git">
+
+            输入项目的描述
+        [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_10.png)
+        
+        <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_10.png" alt="安装git">
+
     
