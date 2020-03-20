@@ -257,6 +257,8 @@
         <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_8.png" alt="上传">
 
             上传的时候可能会出现超时等情况，等等就好了
+            
+        <a href="#Way">解决办法</a>
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png)
 
         <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png" alt="超时">
@@ -309,7 +311,19 @@
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_18.png)
 
         <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_18.png" alt="完成">
-
+- 解决超时问题的办法
+    
+        打开gradle.properties文件夹具体在什么地方看图
+    <img src="https://yi-sheep.github.io/UploadToGitHub/image/Androidstudio_uploadGitHub_19.png" alt="文件位置">
+        
+        在这个文件中加入
+    ```properties
+    systemProp.http.proxyHost= 127.0.0.1
+    systemProp.http.proxyPort= 8080 // 这个端口你可以自己随便一个只要不和你其他软件起冲突就行
+    systemProp.https.proxyHost= 127.0.0.1
+    systemProp.https.proxyPort= 8080 // 这个也是一样
+    ```
+    <img src="https://yi-sheep.github.io/UploadToGitHub/image/Androidstudio_uploadGitHub_20.png" alt="文件位置">
 ---
 
 教程有任何问题请通过邮箱联系我
