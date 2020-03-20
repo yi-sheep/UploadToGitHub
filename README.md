@@ -259,6 +259,7 @@
             上传的时候可能会出现超时等情况，等等就好了
             
         <a href="#Way">解决办法</a>
+        
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png)
 
         <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_9.png" alt="超时">
@@ -311,6 +312,8 @@
         [图片地址](http://47.93.44.220/image/Androidstudio_uploadGitHub_18.png)
 
         <img src="http://47.93.44.220/image/Androidstudio_uploadGitHub_18.png" alt="完成">
+        
+<span id="Way"><span>
 - 解决超时问题的办法
     
         打开gradle.properties文件夹具体在什么地方看图
