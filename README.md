@@ -322,9 +322,11 @@
         在这个文件中加入
     ```properties
     systemProp.http.proxyHost= 127.0.0.1
-    systemProp.http.proxyPort= 8080 # 这个端口你可以自己随便一个只要不和你其他软件起冲突就行
+    systemProp.http.proxyPort= 8080
+    # 这个端口你可以自己随便一个只要不和你其他软件起冲突就行
     systemProp.https.proxyHost= 127.0.0.1
-    systemProp.https.proxyPort= 8080 # 这个也是一样
+    systemProp.https.proxyPort= 8080
+    # 这个也是一样
     ```
     <img src="https://yi-sheep.github.io/UploadToGitHub/image/Androidstudio_uploadGitHub_20.png" alt="文件位置">
 ---
